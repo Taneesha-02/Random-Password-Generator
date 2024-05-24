@@ -19,3 +19,14 @@ This project is a ReactJS-based password generator application. It allows users 
 * ReactJS: A JavaScript library for building user interfaces.
 * Vite: A build tool that provides a fast development environment.
 * Tailwind CSS: A utility-first CSS framework for styling the application.
+
+
+![Screenshot (2210)](https://github.com/Taneesha-02/Random-Password-Generator/assets/95531688/5bcfa865-e89d-4056-86a9-dbac9d8736fe)
+
+
+![Screenshot (2211)](https://github.com/Taneesha-02/Random-Password-Generator/assets/95531688/f4a9cae6-1393-4903-afc7-59974b266ea9)
+
+
+![Screenshot (2213)](https://github.com/Taneesha-02/Random-Password-Generator/assets/95531688/ba906e30-827e-46d6-8fca-207492661749)
+
+
